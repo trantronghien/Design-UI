@@ -5,3 +5,6 @@
 ## [ScrollView](https://github.com/trantronghien/Design-UI/blob/master/Working-with-the-ScrollView.md)
 
 ## [ScrollView](https://github.com/trantronghien/Design-UI/blob/master/Working-with-the-ImageView.md)
+
+## [Animations](https://github.com/trantronghien/Design-UI/blob/master/Animations.md)
+
