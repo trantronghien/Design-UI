@@ -8,3 +8,5 @@
 
 ## [Animations](https://github.com/trantronghien/Design-UI/blob/master/Animations.md)
 
+## [Data Binding](https://github.com/trantronghien/Design-UI/blob/master/Applying-Data-Binding-for-Views.md)
+
